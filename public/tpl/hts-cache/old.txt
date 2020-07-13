@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:50:00	2288/2288	---MC-	403	error ('Forbidden')	text/html	date:Tue,%2009%20Jun%202020%2005:50:52%20GMT	http://www.ansonika.com/prozim/index.html	h:/webdev/htdocs/template/prozim/www.ansonika.com/prozim/index.0.delayed	(from )
+14:50:04	49/49	U-----	200	untouched ('OK')	text/plain	etag:%2231-553664c929e00%22	http://www.ansonika.com/robots.txt		(from )
