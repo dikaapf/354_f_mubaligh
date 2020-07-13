@@ -1,2 +1,2 @@
 # frontend_mubaligh
- Frondend Mubaligh.id
+ Frontend Mubaligh.id
